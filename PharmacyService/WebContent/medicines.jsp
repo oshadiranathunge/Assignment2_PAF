@@ -11,6 +11,7 @@
 <link rel="stylesheet" href="Views/bootstrap.min.css">
 <script src="Component/jquery-3.2.1.min.js"></script>
 <script src="Component/pharmacyServices.js"></script>
+	
 </head>
 <body>
 	<div class="container">
@@ -39,7 +40,6 @@
 				</div>
 				<div id="alertError" class="alert alert-danger"></div>
 			</div>
-
 			<br>
 			<div id="divItemsGrid">
 				<%
