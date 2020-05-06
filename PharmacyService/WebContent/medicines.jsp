@@ -36,9 +36,6 @@
 
 				</form>
 				<div id="alertSuccess" class="alert alert-success">
-					<%
-						out.print(session.getAttribute("statusMsg"));
-					%>
 				</div>
 				<div id="alertError" class="alert alert-danger"></div>
 			</div>
