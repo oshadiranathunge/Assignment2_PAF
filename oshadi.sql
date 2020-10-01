@@ -44,7 +44,7 @@ INSERT INTO `oshadi` (`itemID`, `itemCode`, `itemName`, `itemPrice`, `itemDesc`)
 (31, 'D0897', 'Cough+syrup', '520.0', 'take+2%2C+3+times+pers+day'),
 (32, 'A0089', 'Betadine', '120.0', 'for wounds'),
 (33, 'D9077', 'corsarta', '455.0', 'For+adults');
-
+(34, 'D9080', 'c viamine', '355.0', 'For+adults');
 --
 -- Indexes for dumped tables
 --
